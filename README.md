@@ -47,8 +47,8 @@ kubectl apply -f deployment.yaml
 minikube service cicd-service
 Links
 
-🔗 Docker Hub Image
-https://hub.docker.com/r/ravindranadhtagore/cicd-demo
+🔗 https://hub.docker.com/r/ravindranadhtagore/cicd-demo
+
 
 ✅ GitHub Actions builds in Actions tab
 
